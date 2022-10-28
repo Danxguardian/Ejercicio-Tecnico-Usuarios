@@ -1,0 +1,11 @@
+.loginCol {
+	height: 100vh;
+}
+
+.bgLogin {
+	position: absolute;
+	display: block;
+	bottom: 0;
+	right: 0;
+	z-index: -1;
+}

@@ -1,0 +1,7 @@
+.fileUploaderCustom > label {
+	background-color: antiquewhite;
+	width: 100%;
+	max-width: none;
+	height: 30vh;
+	min-width: 300px;
+}
