@@ -40,3 +40,10 @@ Una vez que termine el comando en automatico abrira el navegador y podras a empe
 ## Demo en linea
 
 Puedes encontrar el demo en linea en el siguiente link [Ejercicio tecnico - Demo](https://profesional.danieltorrez.com/ejUsuarios/)
+
+## Cuenta prueba login fake
+
+```
+usuario: testAdmin
+contraseña: 123
+```
