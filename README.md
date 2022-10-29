@@ -14,7 +14,6 @@ Para este proyecto se ocupo el siguiente stack de tecnologias
 - Sagas
 - Axios
 - Bootstrap
-- Styled Components
 ```
 
 ## Despliegue local 🚀
